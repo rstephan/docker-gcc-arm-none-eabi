@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:bookworm
 LABEL maintainer="st3ph4n"
 
 ENV DEBIAN_FRONTEND=noninteractive
